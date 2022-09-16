@@ -1,0 +1,15 @@
+C:\Users\MDT1598\Desktop\quiz1\bin\Debug\net6.0\quiz1.exe
+C:\Users\MDT1598\Desktop\quiz1\bin\Debug\net6.0\quiz1.deps.json
+C:\Users\MDT1598\Desktop\quiz1\bin\Debug\net6.0\quiz1.runtimeconfig.json
+C:\Users\MDT1598\Desktop\quiz1\bin\Debug\net6.0\quiz1.dll
+C:\Users\MDT1598\Desktop\quiz1\bin\Debug\net6.0\quiz1.pdb
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.csproj.AssemblyReference.cache
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.AssemblyInfoInputs.cache
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.AssemblyInfo.cs
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.dll
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\refint\quiz1.dll
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.pdb
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\quiz1.genruntimeconfig.cache
+C:\Users\MDT1598\Desktop\quiz1\obj\Debug\net6.0\ref\quiz1.dll
